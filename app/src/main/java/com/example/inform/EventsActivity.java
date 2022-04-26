@@ -44,36 +44,10 @@ import android.widget.Toast;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class EventsActivity extends AppCompatActivity {
-    private BottomNavigationView bottomNavigationView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        bottomNavigationView = findViewById(R.id.bottom_navigation);
+        setContentView(R.layout.event_card);
 
-
-        bottomNavigationView.setOnNavigationItemReselectedListener(new BottomNavigationView.OnNavigationItemReselectedListener() {
-            @Override
-            public void onNavigationItemReselected(@NonNull MenuItem item) {
-                Fragment fragment;
-                switch (item.getItemId()){
-                    case R.id.action_home:
-                        Toast.makeText(EventsActivity.this,"home",Toast.LENGTH_SHORT).show();
-                        fragment = new PostsFragment();
-                        break;
-                    case R.id.action_compose:
-                        Toast.makeText(EventsActivity.this,"compose",Toast.LENGTH_SHORT).show();
-                        fragment = new ComposeFragment();
-                        break;
-                    case R.id.action_profile:
-                    default:
-                        Toast.makeText(EventsActivity.this,"profile",Toast.LENGTH_SHORT).show();
-                        fragment = new ProfileFragment();
-                        break;
-                }
-                getSupportFragmentManager().beginTransaction().replace(R.id.flContainer,fragment).commit();
-            }
-        });
-        bottomNavigationView.setSelectedItemId(R.id.action_home);
     }
 }
