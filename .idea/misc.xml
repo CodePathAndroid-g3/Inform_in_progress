@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/College-UC-Merced/Codepath-android/Codepath-Android-main/Inform/app/src/main/res/drawable/count_background.xml" value="0.3205" />
+        <entry key="..\:/College-UC-Merced/Codepath-android/Codepath-Android-main/Inform/app/src/main/res/drawable/custom_app_bar_background.xml" value="0.192" />
+        <entry key="..\:/College-UC-Merced/Codepath-android/Codepath-Android-main/Inform/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.3205" />
+        <entry key="..\:/College-UC-Merced/Codepath-android/Codepath-Android-main/Inform/app/src/main/res/layout/activity_events_main_page.xml" value="0.36041666666666666" />
+        <entry key="..\:/College-UC-Merced/Codepath-android/Codepath-Android-main/Inform/app/src/main/res/layout/event_card.xml" value="0.36041666666666666" />
+        <entry key="..\:/College-UC-Merced/Codepath-android/Codepath-Android-main/Inform/app/src/main/res/layout/events_page.xml" value="0.36041666666666666" />
+        <entry key="..\:/College-UC-Merced/Codepath-android/Codepath-Android-main/Inform/app/src/main/res/layout/login.xml" value="0.3140625" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/Project_part2/Inform-project-master/Inform/app/src/main/res/drawable/custom_app_bar_background.xml" value="0.3375" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/Project_part2/Inform-project-master/Inform/app/src/main/res/layout/activity_events_main_page.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/Project_part2/Inform-project-master/Inform/app/src/main/res/layout/activity_login.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/Project_part2/Inform-project-master/Inform/app/src/main/res/layout/activity_main.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/Project_part2/Inform-project-master/Inform/app/src/main/res/layout/activity_register.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/Project_part2/Inform-project-master/Inform/app/src/main/res/layout/event_card.xml" value="0.5" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/Project_part2/Inform-project-master/Inform/app/src/main/res/layout/events_page.xml" value="0.33" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/Project_part2/Inform-project-master/Inform/app/src/main/res/layout/fragment_compose.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/Project_part2/Inform-project-master/Inform/app/src/main/res/layout/fragment_posts.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/Project_part2/Inform-project-master/Inform/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.38697916666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27037037037037037" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.27037037037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
