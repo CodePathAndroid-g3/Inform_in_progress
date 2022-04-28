@@ -34,7 +34,7 @@
                     android:height="50dp"
                     android:background="@drawable/search_bar_background"
                     android:drawableEnd="@drawable/search_btn"
-                    android:hint="@string/search_bar_hint"
+                    android:hint="Searching for..."
                     android:paddingLeft="20dp"
                     android:paddingRight="5dp"
                     android:textColor="@color/white"

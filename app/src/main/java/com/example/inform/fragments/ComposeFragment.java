@@ -124,9 +124,12 @@ public class ComposeFragment extends Fragment {
 
     }
 
-    private void savePost(String description, ParseUser currentUser, File photoFile) {
+    private void savePost(String description, String status,String contact,String location, ParseUser currentUser, File photoFile) {
         Post post = new Post();
         post.setDescription(description);
+        post.setStatus(status);
+        post.setContact(contact);
+        post.setLocation(location);
         post.setImage(new ParseFile(photoFile));
         post.setUser(currentUser);
         post.saveInBackground(new SaveCallback() {
